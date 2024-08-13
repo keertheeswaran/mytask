@@ -1,0 +1,72 @@
+.table .thead-primary th {
+  background-color: #294d85;
+  color: #fff;
+}
+.page-btn{
+  border-radius: 20px;
+  background: #294d85;
+  border: none;
+  width: 30px;
+  height: 30px;
+}
+.icons{
+  color: white;
+    padding-bottom: 5px;
+}
+.Searchbar{
+  width: 35px;
+    text-align: center;
+    background: #294d85;
+    padding-top: 5px;
+    color: white;
+    border-radius: 0px 5px 5px 0px;
+}
+
+.navbar {
+  height: 100vh; 
+  width: 250px;  
+  position: fixed; 
+  top: 0; 
+  left: 0; 
+  background-color: #333; 
+  color: #fff; 
+  display: flex;
+  flex-direction: column; 
+  padding: 20px; 
+}
+
+.navbar-title {
+  font-size: 24px; 
+  margin-bottom: 20px;
+}
+
+.navbar-menu {
+  list-style-type: none; 
+  padding: 0; 
+}
+
+.navbar-menu li {
+  margin-bottom: 10px; 
+}
+
+.navbar-menu a {
+  color: #fff; 
+  text-decoration: none; 
+  display: block; 
+  padding: 10px; 
+  border-radius: 4px; 
+}
+
+.navbar-menu a:hover {
+  background-color: #575757; 
+}
+
+.content {
+  width: 82%;
+  position: absolute;
+  top: -315px;
+  left: 270px;
+}
+.header{
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
+}
